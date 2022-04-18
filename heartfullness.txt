@@ -1,0 +1,133 @@
+=====================================================
+Hearfulness Magazine Website Desktop Version Overview
+=====================================================
+
+Website Link: https://www.heartfulnessmagazine.com/
+
+Key Elements in Website
+=======================
+
+* The same header and footer is used in all pages of the website.
+* The header contains the following items:
+
+   * A Navigation Bar
+
+      * Contact Us page - Contains an option to submit Name, Email and Message. Most likely this triggers an email.
+      * Contribute - Links to a static webpage which describes the guidelines for contributing to this magazine
+      * Subscribe - Contains options for print, digital and gift subscriptions. Also contains a webform to get more information about the reader
+      * Donate - A message to the prospective donor. Links to a payment gateway for collections.
+      * Links to their facebok, twitter, youtube, linkedin, instagram and telegram page.
+   
+   * Logo and tagline with a hyperlink which redirects to the same page.
+   
+   * Another Navigation bar with the following items:
+
+      * A home button which brings back to the homepage
+      * Links to topics covered in this magazine (self-care, workplace, relationships, inspiration, environment, creativity). The links have the following hover effect: They bring up an image/infographic of 4 articles in that particular topic. Under each image/infographic, title of the corresponding article is mentioned in bold. The image/infographic/title is clickable and takes the user to the corresponding article.
+      * Link to Editions. Takes to a new page which enlists all the volumes published so far.in chronological order (recent first). Each volume has links to archives (The archive inforgraphic follows a uniform design - font, image, barcode, article titles, author names)
+         
+         * Link to subscribe
+         * Search box
+         * Sort options (Sort by year)
+         * Link to order copies - Links to external vendors such as kindle, issuu, goodreads
+
+      * A search box which offers custom search.
+
+* A tile consisting of three articles - image + title combo which take you to the actual article. Specific layout which emphasizes the main articles of the most recent edition (perhaps)
+
+* Featured stories 
+
+   * A tile consisting of pointers to three selected articles in that issue.
+   * Each article in the tile has the following structure.
+
+      * clickable Image / infographic
+      * Subtopic assigned to thie article
+      * Clicking on subtopic takes the user to a subtopic specific page where all the articles belong to the particular subtopic.
+      * Title of the article
+      * A small snippet mentioning the author of the article and a short summary ( contains ...)
+      * READ MORE button/link which takes us to the article.
+
+* Articles in recent edition.
+
+   * Theme of the month/ issue - A textual short summary of the current month's edition.
+   * Month, year appears in the title
+   * Rest is similar to featured stories.
+
+
+* Articles
+
+   * A matrix of 9 articles (arranged in a 3 x 3 form)
+   * An option to load more (3 x 4).
+   * All the articles are from the recent month's edition only.
+
+
+* Subscription
+* Recommended Articles
+
+   * We do not know if this is static or dynamic (based on statistics)
+   * Format is similar to that of featured stories
+
+* Footer of the page
+   
+   * Contains the same information as that of header (rendered in a different format). Additionally contains
+   * Copyright line
+   * Terms of Use
+   * Privacy and Cookie Policy.
+
+
+
+Subtopic Page
+=============
+
+* Bears the URL of the form https://www.heartfulnessmagazine.com/category/<sub_category_name>/ (Workplace)
+* Contains a grey bar representing the topic hierarchy. Home >  <sub_topic_name>
+* Subtopic title
+* Latest posts in the subtopic - similar to featured articles (does not contain subtopic)
+* All articles in the subtopic
+
+   * Clickable image/inforgraphic
+   * Date when the article was published
+   * A summary of the article
+   * A share button - to share the article in Facebook, Twitter, LinkedIn, WhatsApp, Pinterest, Email
+   * Statistics - Number of claps, chats for that article
+   * Load more button - which keeps loading the older articles under that category. The number of articles displayed on that page keep increasing.
+
+* Related topics 
+
+   * 3 related articles from another subtopic
+   * Option to scroll left and right
+
+
+Editions Page
+=============
+
+* Example 
+* From header --> click Editions --> Click on any addition from the displayed list.
+* Bears the URL of the form https://www.heartfulnessmagazine.com/editions/<month-year/>
+* Contains a grey bar representing the path from mainpage to this one (Home > Editions > November 2021). Each item (Home, Editions) is clickable and takes to the previous page.
+* Contains the infographic in enlarged form
+* Text snippet about that edition.
+* Option to share the edition on Facebook, Twitter, Pinterest, LinkedIn, whatsapp, email
+* A botton to download --> Downloads in PDF format.
+* A button to view --> Renders the edition in issuu kind of platform.
+* Recent editions showing the previous 4 editions with an option to view all.
+
+
+Article Page
+============
+
+* Example: https://www.heartfulnessmagazine.com/kinship-and-interconnectedness/
+* You can reach article page from main --> subtopic page --> article 
+* Does not tell us which edition does this article belong to
+* Image of the author, name, date and "x mins Read"
+* Options to share this on various social media platforms
+* The main image of the article, followed by few words about author and the article (can contain multiple images, sandwitched between text)
+* Claps, chats and social media platform sharing options are shown at the end
+* Author name, profile pic, Link to his/her profile and author description are shown.
+* Provides an option for the reader to leave a reply.
+* Recommended Articles
+* All articles might not be present in the Edition version.
+* One article which I found in category page and in edition is https://www.heartfulnessmagazine.com/what-feels-right-for-you/
+
+   * The ones which are present in the magazine edition have a hierarcy like this. Home > Volume 7 > January 2022 > What feels right for you?
+   * This specific one also contains audio.

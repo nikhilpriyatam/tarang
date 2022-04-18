@@ -1,0 +1,42 @@
+Deadline for first version - 26th March.
+
+* Tools: Carrd, Square space, wordpress, dorik 
+* Top navbar
+	* Latest edition
+	* Previous edition(s)
+	* About Us [Infographic and instagram, about team members - photo and small bio]
+	* Home icon which circles back to the landing page.
+
+
+* High resolution images from canva - free library (Indian arts)
+
+	* Indian arts
+	* Indian Culture
+	* Indian history / heritage 
+	* The images are not clickable, they are meant to give a visual summary.
+	* https://isha.sadhguru.org/us/en
+
+
+* 3 line blurb - introducing tarang
+
+
+* Cover image / image for the latest edition.
+
+	* Occupies major real estate
+	* Image is actually a link which takes the user to a new html page
+	* The new page contains the navbar and somehow indicates that current edition has been selected.
+	* Have some call to action below image such as Read Now!
+	* Ref: https://issuu.com/tarangmagazine/docs/edition_5_-_issuu [Preferable to have only black box]
+	* This feature is available in issuu.
+	* iframe in html to render the issue article in the current page
+	* Venu garu to provide the issuu code which can be copied.
+
+* A 2 line quote from a well known figure (sudha murthy / ratan tata) promoting the importance of reading.
+
+* [Optional] 6 - 9 image matrix along with 2-3 line blurb.
+
+	* Articles from previous edition.
+	* Option 1 - Go to the previous edition navbar and bring up the exact article page.
+	* Try to follow WCAG
+
+* Footer - links to social media links.
